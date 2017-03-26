@@ -1,0 +1,103 @@
+﻿code,fieldname
+ F04530, Census Population              
+ F04531, White Population               
+ F04532, Black/African American Pop     
+ F04533, Am Indian/Alaska Native Pop    
+ F04537, Percent White Population       
+ F04538, Percent Black/African Am Pop   
+ F04539, Percent Am Ind/Alaska Natve Pop
+ F04541, Percent Some Other Population  
+ F04542, Percent Hispanic/Latino Pop    
+ F06793," Number Employed, 16+           "
+ F06794," Number Unemployed, 16+         "
+ F06795," Unemployment Rate, 16+         "
+ F09778, Personal Inc (by res) (1000's) 
+ F09781, Per Capita Personal Income     
+ F11396, Veteran Population Estimate    
+ F11984, Population Estimate            
+ F12558, Total Deaths                   
+ F13191, # Eligible for Medicare        
+ F13192, # Medicare Advantage Enrollees 
+ F13223, Persons in Poverty             
+ F13226, Median Household Income        
+ F13249," Medicare Enrollment, Aged Tot  "
+ F13250," Medicare Enrollment, Aged HI   "
+ F13251," Medicare Enrollment, Aged SMI  "
+ F13252," Medicre Enrollmnt, Disabled HI "
+ F13253," Medicre Enrollmnt, Disabled SMI"
+ F13254," Mdcre Enrllmnt, Agd & Dsbld Tot"
+ F13255," Mdcre Enrllmnt, Agd & Dsbld HI "
+ F13256," Mdcre Enrllmnt, Agd & Dsbld SMI"
+ F13321, Percent Persons in Poverty     
+ F13324," Medicre Enrollmnt, Disabled Tot"
+ F13325," Total Population, One Race     "
+ F13457, Percent Asian Population       
+ F13458, Percent Nat Hawaii/Other PI Pop
+ F13483, Median Age                     
+ F13484," Median Age, Male               "
+ F13485," Median Age, Female             "
+ F13486," Median Age, White              "
+ F13487," Median Age, White Male         "
+ F13488," Median Age, White Female       "
+ F13489," Median Age, Black/African Amer "
+ F13490," Median Age, Black/Afr Am Male  "
+ F13491," Median Age, Black/Afr Am Female"
+ F13507," Median Age, Hispanic/Latino    "
+ F13508," Median Age, Hispanic/Lat Male  "
+ F13509," Median Age, Hispanic/Lat Female"
+ F13510," Median Age, White Non-Hispanic "
+ F13511," Median Age, White Non-Hisp Male"
+ F13512," Median Age, White Non-Hisp Fmle"
+ F13594," Veteran Pop Estimate, Male     "
+ F13595," Veteran Pop Estimate, Female   "
+ F13906, Pop Total Male                 
+ F13907, Pop Total Female               
+ F14083, Population Estimate 65+        
+ F14196," Medicaid Eligibles, Total      "
+ F14197," Medicaid Eligibles, Male       "
+ F14198," Medicaid Eligibles, Females    "
+ F14202," Medicaid Eligibles, Children   "
+ F14203," Medicaid Eligibles, Adults     "
+ F14204," Medicaid Eligibles, Aged       "
+ F14207, # Medicare Presc Drug Plan Enr 
+ F14635, Non-Hispanic/Latino Population 
+ F14636, White Non-Hispanic Population  
+ F14637, Black/Afr Amer Non-Hisp Pop    
+ F14638, Percent Non-Hispanic/Latino Pop
+ F14639, Pct White Non-Hisp/Latino Pop  
+ F14640, Pc Bl/Afr Am Non-Hisp/Lat Pop  
+ F14651, Am Ind/Alska Nat Non-Hisp Pop  
+ F14652, Asian Non-Hispanic Population  
+ F14653, Nat Hawaii/Oth PI Non-Hisp Pop 
+ F14654, Some Other Race Non-Hisp Pop   
+ F14655, Two or more Races Non-Hisp Pop 
+ F14656, Pct Am Ind/Alska Nat NonHsp Pop
+ F14657, Percent Asian Non-Hispanic Pop 
+ F14658, Pct Nat Hawai/Oth PI NonHsp Pop
+ F14659, Pct Some Other Non-Hispanic Pop
+ F14749, Pers <65 with Health Insurance 
+ F14750, Pers <65 without Health Ins    
+ F14751, % <65 without Health Insurance 
+ F14752, Males <65 Yrs                  
+ F14753, Males <65 with Health Insurance
+ F14754, Males <65 without Health Ins   
+ F14755, % Males <65 without Health Ins 
+ F14756, Females <65 Yrs                
+ F14757, Females <65 with Health Ins    
+ F14758, Females <65 without Health Ins 
+ F14759, % Females <65 without Hlth Ins 
+ F14839, # Females Over 15 Yrs          
+ F14917, Census Urban Population        
+ F14918, Census Urbanized Areas Pop     
+ F14919, Census Urban Clusters Pop      
+ F14920, Census Rural Population        
+ F15472, Pers <65 with Health Insurance 
+ F15473, Pers <65 without Health Ins    
+ F15474, % <65 without Health Insurance 
+ F15475, Males <65 Yrs                  
+ F15476, Males <65 with Health Insurance
+ F15477, Males <65 without Health Ins   
+ F15478, % Males <65 without Health Ins 
+ F15479, Females <65 Yrs                
+ F15480, Females <65 with Health Ins    
+ F15481, Females <65 without Health Ins 

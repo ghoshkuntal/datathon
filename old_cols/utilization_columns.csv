@@ -1,0 +1,11 @@
+code,fieldname
+ F09545, Inpatient Days                 
+ F09566, Outpat Visits in ST Gen Hosp   
+ F09567, Outpat Visits in ST Non-Gen Hsp
+ F09568, Outpat Visits in Long Term Hosp
+ F09572, Emergency Room Visits          
+ F09575, Outpatient Visits - Other      
+ F11391 , Dist Hosp By 00 - 39% Util Rate
+ F11392, Dist Hosp By 40 - 59% Util Rate
+ F11393 , Dist Hosp By 60 - 79% Util Rate
+ F11394, Dist Hosp By 80+% Util Rate    

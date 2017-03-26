@@ -1,0 +1,37 @@
+code,fieldname
+F08868,Total Number Hospitals
+F08869,# Short Term General Hosps
+F08870,# Short Term Non-General Hosps
+F08871,# Long Term Hospitals
+F08872,# Short Term Community Hosps
+F08909,Hospital Admissions
+F08910,Short Term Gen Hosp Admissions
+F08911,STNG/LT
+F08912,Short Term Community Hosp Admis
+F14053,Nurs Home Admissions - Tot
+F14054,Nurs Home Admissions - ST GEN
+F14055,Nurs Home Admissions - ST NG LT
+F08921,Hospital Beds
+F08922,Short Term General Hosp Beds
+F08923,Short Term Non-Gen Hosp Beds
+F08924,Long Term Hosp Beds
+F08925,Short Term Community Hosp Beds
+F14049,Nursing Home Beds - Tot
+F14050,Nursing Home Beds - ST GEN
+F14051,Nursing Home Beds - ST NG
+F14052,Nursing Home Beds - LT
+F14041,Licensed Beds - Tot
+F14042,Licensed Beds - ST
+F14043,Licensed Beds - NG
+F14044,Licensed Beds - LT
+F14045,Licensed Nursing Home Beds
+F08930,Bassinets Set Up & Staffed
+F08931,Bassinets Set Up & Staffed
+F09537,Dist Hosp By 00 - 04 Services - ST
+F09538,Dist Hosp By 00 - 04 Services - LT
+F09539,Dist Hosp By 05 - 14 Services - ST
+F09540,Dist Hosp By 05 - 14 Services - LT
+F09541,Dist Hosp By 15 - 24 Services - ST
+F09542,Dist Hosp By 15 - 24 Services - LT
+F09543,Dist Hosp By 25+ Services - ST
+F09544,Dist Hosp By 25+ Services - LT

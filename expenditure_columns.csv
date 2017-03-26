@@ -1,0 +1,9 @@
+﻿code,fieldname
+ F09593, # Facilities Reporting Expenses - ST
+ F09594, # Facilities Reporting Expenses - LT
+ F09596, Total Rep Facility Exp (1000's) - ST
+ F09597, Total Rep Facility Exp (1000's) -LT
+ F09607, # Facs Reporting Payroll Expens - ST
+ F09608, # Facs Reporting Payroll Expens - LT
+ F09609, Tot Rep Payroll Expense(1000's) - ST
+ F09610, Tot Rep Payroll Expense(1000's) - LT

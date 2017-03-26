@@ -1,0 +1,60 @@
+FIELD,VARIABLE NAME
+ F09545, Inpatient Days                 
+ F09546, Inpatient Days in ST Gen Hosp  
+ F09547, Inptn Days in STNG/LT Hosp     
+ F09548, Inptn Days in Short Term Comm  
+ F09552, Inpatient Days in VA Hosps     
+ F09566, Outpat Visits in ST Gen Hosp   
+ F09567, Outpat Visits in ST Non-Gen Hsp
+ F09568, Outpat Visits in Long Term Hosp
+ F09571, Outpatient Visits in VA Hosp   
+ F09572, Emergency Room Visits          
+ F09574, Emergency Room Visits          
+ F09575, Outpatient Visits - Other      
+ F09576, Outpatient Visits - Other      
+ F09577, Total Medicare Inpatient Days  
+ F09578, Total Medicare Inpatient Days  
+ F09580, Total Medicaid Inpatient Days  
+ F09583," # Surgical Operations, Inpatnt "
+ F09584," # Surgical Operations, Inpatnt "
+ F09586," # Surgical Operations, Outpatnt"
+ F09587," # Surgical Operations, Total   "
+ F09589," # Surgical Operations, Total   "
+ F09592," # Surgical Operations, Total   "
+ F09706, Total Medicaid Inpatient Days  
+ F09707," # Surgical Operations, Outpatnt"
+ F10313, # Tot Fac Medicare Inpat Dchrg 
+ F10314, # Tot Fac Medicare Inpat Dchrg 
+ F10315, # Tot Fac Medicaid Inpat Dchrg 
+ F10316, # Tot Fac Medicaid Inpat Dchrg 
+ F10684, Inptn Days in LT Gen Med/Surg  
+ F10685, Inptn Days in LT Psychiatric   
+ F10686, Inptn Days in LT Rehabilitation
+ F10687, Inptn Day in LT Chronic Disease
+ F10689, Inptn Day in LT Intel Disablity
+ F10690, Inptn Days in LT Chldrn's Psych
+ F11391 , Dist Hosp By 00 - 39% Util Rate
+ F11392, Dist Hosp By 40 - 59% Util Rate
+ F11393 , Dist Hosp By 60 - 79% Util Rate
+ F11394, Dist Hosp By 80+% Util Rate    
+ F13188 , Inptn Days in ST Psychiatric   
+ F13189, Inptn Days in ST Rehabilitation
+ F13190, Inptn Days in ST Chldrn's Psych
+ F13318, # Operating Rooms              
+ F13319, # Operating Rooms              
+ F13929, # Airborne Infection Isol Rooms
+ F13937, # Airborne Infection Isol Rooms
+ F14056, Nurs Home Inpatient Days       
+ F14057," Nurs Home Inpatient Days, STGEN"
+ F14058," Nurs Home Inptn Days, STNG/LT  "
+ F14120, Inptn Days in ST Acute LT Care 
+ F14121, Inptn Days in LT Acute LT Care 
+ F14667, Inptn Days in ST Chldrn's Gen  
+ F15308, Medcre Benef Emer Dept Visits  
+ F15309, ED Visits per 1K Medicare Benef
+,
+,
+,
+,
+,
+,

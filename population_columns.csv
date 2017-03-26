@@ -1,0 +1,20 @@
+﻿code,fieldname
+F11984, Population Estimate            
+F13906, Pop Total Male                 
+ F14083, Population Estimate 65+        
+F13483, Median Age                     
+F13484," Median Age, Male               "
+F13485," Median Age, Female             "
+ F04531, White Population               
+ F04532, Black/African American Pop     
+ F13326, Asian Population               
+F13249," Medicare Enrollment, Aged Tot  "
+F08737, Number Families                
+F13514, Average Family Size            
+F12557, Total Births                   
+F12558, Total Deaths                   
+F09781, Per Capita Personal Income     
+F13223, Persons in Poverty             
+ F13191, # Eligible for Medicare        
+ F13192, # Medicare Advantage Enrollees 
+ F06795," Unemployment Rate, 16+         "

@@ -1,0 +1,44 @@
+﻿code,fieldname
+F04530,Census Population
+F11984, Population Estimate            
+F13182, Persons/Quasi-individual       
+F13906, Pop Total Male                 
+F13907, Pop Total Female               
+F13908, Pop White Male                 
+F13909, Pop White Female               
+F13926, Pop White Non-Hisp/Latino Male 
+F13927, Pop White Non-Hisp/Latino Femle
+F13924, Pop White Hispanic/Latino Male 
+F13925, Pop White Hispanic/Latino Femle
+F13910, Pop Black/African Amer Male    
+F13911, Pop Black/African Amer Female  
+F13914, Pop Asian Male                 
+F13915, Pop Asian Female               
+ F14083, Population Estimate 65+        
+F13483, Median Age                     
+F13484," Median Age, Male               "
+F13485," Median Age, Female             "
+ F13487," Median Age, White Male         "
+ F13488," Median Age, White Female       "
+F13489," Median Age, Black/African Amer "
+F13490," Median Age, Black/Afr Am Male  "
+F13491," Median Age, Black/Afr Am Female"
+F13495," Median Age, Asian              "
+F13496," Median Age, Asian Male         "
+F13497," Median Age, Asian Female       "
+ F04531, White Population               
+ F04532, Black/African American Pop     
+ F13326, Asian Population               
+F13249," Medicare Enrollment, Aged Tot  "
+F13324," Medicre Enrollmnt, Disabled Tot"
+F13254," Mdcre Enrllmnt, Agd & Dsbld Tot"
+F08737, Number Families                
+F13514, Average Family Size            
+F12557, Total Births                   
+F12558, Total Deaths                   
+F09781, Per Capita Personal Income     
+F13223, Persons in Poverty             
+ F13191, # Eligible for Medicare        
+ F13192, # Medicare Advantage Enrollees 
+ F13226, Median Household Income        
+ F06795," Unemployment Rate, 16+         "
